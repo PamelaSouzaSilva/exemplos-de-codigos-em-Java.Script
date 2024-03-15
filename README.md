@@ -51,6 +51,6 @@ Esse código é útil para situações em que você deseja exibir uma mensagem d
 ## Fontes Consultadas🔗
 - [Terminal Root](https://terminalroot.com.br/)
  
-## Autores 👥
+## Autores👥
 - [Murilo Tonassi](https://github.com/murilo-tonassi)
 - [Pamela Souza](https://github.com/PamelaSouzaSilva)
