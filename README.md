@@ -48,7 +48,7 @@ Esse código é útil para situações em que você deseja exibir uma mensagem d
 - HTML5;
 - JavaScript.
 
-## Fontes Consultadas 🔗
+## Fontes Consultadas🔗
 - [Terminal Root](https://terminalroot.com.br/)
  
 ## Autores 👥
